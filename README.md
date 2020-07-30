@@ -3,7 +3,7 @@
         <img src="https://gitlab.com/src_prepare/badge/badges/master/pipeline.svg">
     </a>
     <a href="https://gentoo.org/">
-        <img src="https://gitlab.com/src_prepare/badge/-/raw/master/powered-by-gentoo-linux-purple.svg">
+        <img src="https://gitlab.com/src_prepare/badge/-/raw/master/powered-by-gentoo-linux-tyrian.svg">
     </a>
     <a href="./LICENSE">
         <img src="https://img.shields.io/badge/license-CC0 1.0 Universal-blue.svg">
