@@ -1,0 +1,53 @@
+<svg
+    aria-label="License CC0 1.0 Universal Blue"
+    height="20"
+    role="img"
+    width="156"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    >
+  <title>
+    License CC0 1.0 Universal Blue
+  </title>
+  <g
+      shape-rendering="crispEdges"
+      >
+    <rect
+        fill="#555"
+        height="20"
+        width="47"
+        />
+    <rect
+        fill="#007ec6"
+        height="20"
+        width="109"
+        x="47"
+        />
+  </g>
+  <g
+      fill="#fff"
+      font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+      font-size="110"
+      text-anchor="middle"
+      text-rendering="geometricPrecision"
+      >
+    <text
+        x="245"
+        y="140"
+        transform="scale(.1)"
+        fill="#fff"
+        textLength="370"
+        >
+      license
+    </text>
+    <text
+        fill="#fff"
+        textLength="990"
+        transform="scale(.1)"
+        x="1005"
+        y="140"
+        >
+      CC0 1.0 Universal
+    </text>
+  </g>
+</svg>
