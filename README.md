@@ -3,18 +3,20 @@
         <img src="https://gitlab.com/src_prepare/badge/badges/master/pipeline.svg">
     </a>
     <a href="https://gentoo.org/">
-        <img src="https://gitlab.com/src_prepare/badge/-/raw/master/powered-by-gentoo-linux-tyrian.svg">
+        <img src="./powered-by-gentoo-linux-tyrian.svg">
     </a>
     <a href="./LICENSE">
-        <img src="https://img.shields.io/badge/license-CC0 1.0 Universal-blue.svg">
+        <img src="./license-cc0-1.0-universal-blue.svg">
     </a>
     <a href="https://app.element.io/#/room/#src_prepare:matrix.org">
-        <img src="https://gitlab.com/src_prepare/badge/-/raw/master/chat-matrix-blue.svg">
+        <img src="./chat-matrix-green.svg">
     </a>
     <a href="https://gitlab.com/src_prepare/badge/commits/master.atom">
-        <img src="https://gitlab.com/src_prepare/badge/-/raw/master/feed-atom-orange.svg">
+        <img src="./feed-atom-orange.svg">
     </a>
 </p>
 
+
 # Badges
+
 Badges for the src_prepare group
