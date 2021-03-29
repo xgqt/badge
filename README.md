@@ -1,3 +1,5 @@
+# Badges
+
 <p align="center">
     <a href="https://gitlab.com/src_prepare/badge/pipelines">
         <img src="https://gitlab.com/src_prepare/badge/badges/master/pipeline.svg">
@@ -17,6 +19,6 @@
 </p>
 
 
-# Badges
+# About
 
 Badges for the src_prepare group
